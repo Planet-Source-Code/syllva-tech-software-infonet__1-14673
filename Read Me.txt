@@ -1,0 +1,46 @@
+Readme text for InfoNet
+Copyright 2001 by Queen City Software
+
+InfoNet is being built as a research tool for the Internet. This is still in the development stages, it is not yet a final release application. It is complete enough to work, and let you add or take out what you want. 
+
+The toolbars and menus are still being worked on, but the basic functions do work.
+
+
+
+1) What you need for this application
+2) Using InfoNet in Research Mode
+3) Using InfoNet in Browse Mode
+4) Using InfoNet in Web Page making mode
+
+#####################################################################
+
+
+
+1) What you need for this application:
+
+a) Visual Basic 6.0 (uses flat toolbars - unless you know the code for it in VB5)
+b) Visual Studio Service Pack 4 (a minimum of 58 megs from Micro$oft's site)
+c) Coolbar control
+d) DHTML Edit control (if you have IE 5.0 or later, you have it, otherwise download it from Micro$oft's website)
+
+
+
+
+2) Using InfoNet in the Research mode:
+
+Simply use the upper part as a normal web browser. When the user finds some information they want, they can type it in the rich textbox below, or highlight the text and drag-n-drop it into the textbox. The drag-n-drop is also useful to drop pictures in it (although it cannot be saved in their regular formats. I am looking into dragging and dropping pictures into either a picture box or Image control for that purpose).
+
+The File and View menus have the option to "use" up to five different documents, in case the user wants to research more than one subject. It uses five rich textboxes (They're all piled on top of each other) to do this. I should have put this into a control array, but I guess I wanted to make this a little more complicated, no?
+
+
+
+
+3) Using InfoNet in Browse Mode
+
+This is basically your normal web browser. It has most of the functions that IE has, but presented in MDI format. There is also a full screen mode so you can get as much screen as you can while surfing (I personally prefer browsers to be like that). There is also a menu item to view the page's source, but I haven't got that done at the moment. About half of the toolbar is functional.
+
+
+
+4) Using InfoNet in Web Page making mode:
+
+This is a download I got from Micro$oft's website. I have it here to put in the page making capabilities. I am working on my own kind, but that will be brought out in the future. 
