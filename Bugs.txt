@@ -1,0 +1,5 @@
+Known Bugs
+
+1/24/2001
+1) When you want to type in a new address, using the backspace key makes the web browser control go back in the history file, and does not delete the characters.
+
